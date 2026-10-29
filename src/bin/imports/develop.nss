@@ -1,4 +1,4 @@
-menu(mode="multiple" title=loc.develop sep=sep.bottom image=\uE26E)
+﻿menu(mode="multiple" title=loc.develop sep=sep.bottom image=\uE26E)
 {
 	menu(mode="single" title=loc.editors image=\uE17A)
 	{
